@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Karim</h1>
 <h3 align="center">Junior Web-Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalkn-71" alt="faisalkn-71" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://bespoke-starlight-dbb728.netlify.app/](https://bespoke-starlight-dbb728.netlify.app/)
 
 - 📫 How to reach me **fknofficial71@gamil.com**
