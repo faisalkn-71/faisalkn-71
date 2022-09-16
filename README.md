@@ -11,8 +11,13 @@
 ## 🤵 About Me
 My name is Md Faisal Karim. I have been studying computer science and technology for two years. In order to kick start my career before I graduate. I am looking for a web developer job since that's what I have been doing for one year—designing websites for course assignments, and developing MERN Stack websites with the experience of what I have learned from the web-developing course. Besides that, I am a normal guy who enjoys playing and spending time with friends, while not working or studying, which takes up most of my time of course.
 
-## ☕ Connect With Me
-[<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/faisalkn71/)  [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100060664076721)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/faisalkn-71)
+<div align="left">
+<h2>☕ Connect With Me</h2>
+<a target="_blank"href="https://www.linkedin.com/in/faisalkn71/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<a target="_blank"href="https://wa.me/8801882847658"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><a/>
+<a target="_blank"href="https://www.facebook.com/profile.php?id=100060664076721"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /><a/>
+<a target="_blank"href="mailto:fknofficial71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
+<div/>
 
 ## 💁‍♂️ For Any Quiries 
 📧 fknofficial71@gmail.com
