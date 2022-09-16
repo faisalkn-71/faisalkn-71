@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://i.ibb.co/4Wm982H/github-cover-image.png)
+![MERN Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQGBpHo3poGEtw/profile-displaybackgroundimage-shrink_350_1400/0/1662889353511?e=1668643200&v=beta&t=qNoVLTuq6-WGbDeFXamHdBpMQ0OYei86BJmZJTQbsy8)
 <h1 align="center">Hi 👋, I'm Faisal Karim</h1>
 <h3 align="center">👑 MERN Stack Web Developer</h3>
 
